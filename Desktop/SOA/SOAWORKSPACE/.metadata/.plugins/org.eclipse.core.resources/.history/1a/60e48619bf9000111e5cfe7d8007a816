@@ -1,0 +1,5 @@
+package com.klef.soa.config;
+
+public class SwaggerConfig {
+
+}

@@ -1,0 +1,79 @@
+package com.klef.soa.controller;
+
+import java.util.List;
+
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.DeleteMapping;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.PutMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.klef.soa.entity.Tourist;
+import com.example.demo.service.TouristService;
+
+@RestController
+@RequestMapping("/tourists")
+public class TouristController {
+
+    private final TouristService touristService;
+
+    public TouristController(TouristService touristService) {
+        this.touristService = touristService;
+    }
+
+    // INSERT
+    @PostMapping("/add")
+    public Tourist addTourist(@RequestBody Tourist tourist) {
+        return touristService.addTourist(tourist);
+    }
+
+    // UPDATE
+    @PutMapping("/update")
+    public Tourist updateTourist(@RequestBody Tourist tourist) {
+        return touristService.updateTourist(tourist);
+    }
+
+    // DELETE
+    @DeleteMapping("/delete/{touristId}")
+    public ResponseEntity<String> deleteTourist(
+            @PathVariable Long touristId) {
+
+        touristService.deleteTourist(touristId);
+
+        return ResponseEntity.ok("Tourist deleted successfully");
+    }
+
+    // DISPLAY ALL
+    @GetMapping("/displayall")
+    public List<Tourist> displayAll() {
+        return touristService.getAllTourists();
+    }
+
+    // DISPLAY BY ID
+    @GetMapping("/display/{touristId}")
+    public Tourist displayById(
+            @PathVariable Long touristId) {
+
+        return touristService.getTouristById(touristId);
+    }
+
+    // DERIVED QUERY - FIND BY NAME
+    @GetMapping("/displaybyname/{name}")
+    public List<Tourist> displayByName(
+            @PathVariable String name) {
+
+        return touristService.getTouristsByName(name);
+    }
+
+    // DERIVED QUERY - FIND BY TYPE
+    @GetMapping("/displaybytype/{type}")
+    public List<Tourist> displayByType(
+            @PathVariable String type) {
+
+        return touristService.getTouristsByType(type);
+    }
+}

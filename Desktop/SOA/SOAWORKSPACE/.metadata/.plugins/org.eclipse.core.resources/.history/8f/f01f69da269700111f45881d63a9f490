@@ -1,0 +1,78 @@
+package com.example.demo.service;
+
+import java.time.LocalDateTime;
+import java.util.List;
+
+import org.springframework.stereotype.Service;
+
+import com.example.demo.entity.Tourist;
+import com.example.demo.repository.TouristRepository;
+
+@Service
+public class TouristServiceImpl implements TouristService {
+
+    private final TouristRepository touristRepository;
+
+    public TouristServiceImpl(TouristRepository touristRepository) {
+        this.touristRepository = touristRepository;
+    }
+
+    @Override
+    public Tourist addTourist(Tourist tourist) {
+
+        tourist.setCreatedAt(LocalDateTime.now());
+        tourist.setUpdatedAt(LocalDateTime.now());
+
+        return touristRepository.save(tourist);
+    }
+
+    @Override
+    public Tourist updateTourist(Tourist tourist) {
+
+        Tourist existing = touristRepository
+                .findById(tourist.getTouristId())
+                .orElseThrow(() ->
+                    new RuntimeException("Tourist not found"));
+
+        existing.setName(tourist.getName());
+        existing.setType(tourist.getType());
+        existing.setStatus(tourist.getStatus());
+        existing.setLocation(tourist.getLocation());
+        existing.setUpdatedAt(LocalDateTime.now());
+
+        return touristRepository.save(existing);
+    }
+
+    @Override
+    public void deleteTourist(Long touristId) {
+
+        if (!touristRepository.existsById(touristId)) {
+            throw new RuntimeException("Tourist not found");
+        }
+
+        touristRepository.deleteById(touristId);
+    }
+
+    @Override
+    public List<Tourist> getAllTourists() {
+        return touristRepository.findAll();
+    }
+
+    @Override
+    public Tourist getTouristById(Long touristId) {
+
+        return touristRepository.findById(touristId)
+                .orElseThrow(() ->
+                    new RuntimeException("Tourist not found"));
+    }
+
+    @Override
+    public List<Tourist> getTouristsByName(String name) {
+        return touristRepository.findByName(name);
+    }
+
+    @Override
+    public List<Tourist> getTouristsByType(String type) {
+        return touristRepository.findByType(type);
+    }
+}
