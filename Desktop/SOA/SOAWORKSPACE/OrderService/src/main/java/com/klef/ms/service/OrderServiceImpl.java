@@ -6,31 +6,47 @@ import java.util.stream.Collectors;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import com.klef.ms.client.ProductClient;
+import com.klef.ms.client.UserClient;
 import com.klef.ms.dto.OrderRequest;
 import com.klef.ms.dto.OrderResponse;
+import com.klef.ms.dto.ProductResponse;
+import com.klef.ms.dto.UserResponse;
 import com.klef.ms.entity.Order;
 import com.klef.ms.exception.ResourceNotFoundException;
 import com.klef.ms.repository.OrderRepository;
 
+import lombok.RequiredArgsConstructor;
+
 @Service
+@RequiredArgsConstructor  //AVOIDS NON NULL CHARACHTERS
 public class OrderServiceImpl implements OrderService 
 {
     @Autowired
     private OrderRepository repository;
+    
+    private final UserClient userClient;
+    
+    private final ProductClient productClient;
 
     @Override
     public OrderResponse saveOrder(OrderRequest request) 
     {
-        Order order = Order.builder()
-                .userId(request.getUserId())
-                .productId(request.getProductId())
-                .quantity(request.getQuantity())
-                .totalAmount(request.getTotalAmount())
-                .build();
-
-        Order savedOrder = repository.save(order);
-
-        return mapToResponse(savedOrder);
+       UserResponse user = userClient.getUserById(request.getUserId());
+       
+       ProductResponse product = productClient.getProductById(request.getProductId());
+       
+       Order order = Order.builder().userId(user.getId())
+    		                        .productId(product.getId())
+    		                        .quantity(request.getQuantity())
+    		                        .totalAmount(request.getQuantity()*product.getPrice())
+    		                        .build();
+       
+       Order savedorder = repository.save(order);
+       
+       return mapToResponse(savedorder);
+    
+    
     }
 
     @Override
@@ -56,11 +72,16 @@ public class OrderServiceImpl implements OrderService
     {
         Order order = repository.findById(id)
                 .orElseThrow(() -> new ResourceNotFoundException("Order not found with id : " + id));
-
-        order.setUserId(request.getUserId());
-        order.setProductId(request.getProductId());
+        
+        UserResponse user = userClient.getUserById(request.getUserId());
+        
+        ProductResponse product = productClient.getProductById(request.getProductId());
+        
+        
+        order.setUserId(user.getId());
+        order.setProductId(product.getId());
         order.setQuantity(request.getQuantity());
-        order.setTotalAmount(request.getTotalAmount());
+        order.setTotalAmount(request.getQuantity()*product.getPrice());
 
         Order updatedOrder = repository.save(order);
 
@@ -86,4 +107,17 @@ public class OrderServiceImpl implements OrderService
                 .totalAmount(order.getTotalAmount())
                 .build();
     }
+
+	@Override
+	public List<OrderResponse> displayOrderByUserId(Long userid) 
+	{
+
+        return repository.findByUserId(userid)
+                .stream()
+                .map(this::mapToResponse)
+                .collect(Collectors.toList());
+    
+		
+		
+	}
 }

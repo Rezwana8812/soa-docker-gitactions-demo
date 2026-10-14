@@ -41,18 +41,17 @@ public class GlobalExceptionHandler
         return new ResponseEntity<>(errors, HttpStatus.BAD_REQUEST);
     }
 
-    @ExceptionHandler(Exception.class)
-    public ResponseEntity<Map<String, Object>> handleException(Exception ex) {
+     @ExceptionHandler(UnauthorizedException.class)
+    public ResponseEntity<Map<String, Object>> handleUnauthorizedException(UnauthorizedException e)
+    {
 
-        Map<String, Object> response = new HashMap<>();
+    Map<String, Object> response = new HashMap<>();
 
-        response.put("timestamp", LocalDateTime.now());
-        response.put("status", HttpStatus.INTERNAL_SERVER_ERROR.value());
-        response.put("message", ex.getMessage());
+    response.put("timestamp", LocalDateTime.now());
+    response.put("status", HttpStatus.UNAUTHORIZED.value());
+    response.put("message", e.getMessage());
 
-        return new ResponseEntity<>(response,
-                HttpStatus.INTERNAL_SERVER_ERROR);
-
+    return new ResponseEntity<>(response, HttpStatus.UNAUTHORIZED);
     }
 
 }

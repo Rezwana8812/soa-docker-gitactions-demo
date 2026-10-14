@@ -2,13 +2,18 @@ package com.klef.ms.service;
 
 import java.util.List;
 
+import org.springframework.security.core.userdetails.UserDetails;
+
+import com.klef.ms.dto.LoginRequest;
+import com.klef.ms.dto.OrderResponse;
+import com.klef.ms.dto.ProductResponse;
 import com.klef.ms.dto.UserRequest;
 import com.klef.ms.dto.UserResponse;
 
 public interface UserService 
 {
 
-    UserResponse saveUser(UserRequest request);
+    UserResponse saveUser(UserRequest request);  // saveUser => add users  //registration
 
     List<UserResponse> getAllUsers();
 
@@ -17,5 +22,20 @@ public interface UserService
     UserResponse updateUser(Long id, UserRequest request);
 
     void deleteUser(Long id);
+    
+    //from ProductService      //implementation from ProductService Project
+
+    List<ProductResponse> getAllProducts();
+    
+    //from OrderService        //implementation from OrderService Project
+
+    List<OrderResponse> displayOrdersByUserId(Long userid);
+    
+    UserResponse userLogin(LoginRequest request);  //user Login
+    
+	UserDetails loadUserByUsername(String username);
+
+	List<ProductResponse> displayAllProducts();
+
 
 }

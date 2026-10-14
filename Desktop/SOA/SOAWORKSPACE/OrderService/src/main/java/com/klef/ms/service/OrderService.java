@@ -4,6 +4,7 @@ import java.util.List;
 
 import com.klef.ms.dto.OrderRequest;
 import com.klef.ms.dto.OrderResponse;
+import com.klef.ms.entity.Order;
 
 public interface OrderService 
 {
@@ -16,4 +17,6 @@ public interface OrderService
     OrderResponse updateOrder(Long id, OrderRequest request);
 
     void deleteOrder(Long id);
+    
+    List<OrderResponse> displayOrderByUserId(Long userid);
 }

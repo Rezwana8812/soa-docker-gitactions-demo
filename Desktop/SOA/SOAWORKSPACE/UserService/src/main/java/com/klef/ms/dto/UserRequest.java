@@ -1,5 +1,6 @@
 package com.klef.ms.dto;
 
+import io.swagger.v3.oas.annotations.media.Schema;
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Pattern;
@@ -12,16 +13,22 @@ public class UserRequest
     private String name;
 
     @Email(message = "Invalid Email")
-    @NotBlank(message = "Email is required")   //atlaest 1 lenght char
+    @NotBlank(message = "Email is required")
     private String email;
 
-    @NotBlank(message = "Password is required")   
+    @NotBlank(message = "Password is required")
     private String password;
 
     @Pattern(regexp = "^[6-9]\\d{9}$",message = "Invalid Contact Number")
     private String contact;
 
     @NotBlank(message = "Role is required")
+    @Pattern(regexp = "ADMIN|MANAGER|USER", message = "Role must be one of ADMIN, MANAGER, USER")
+    @Schema(
+        description = "User role",
+        allowableValues = {"ADMIN", "MANAGER", "USER"},
+        example = "USER"
+    )
     private String role;
 
 }

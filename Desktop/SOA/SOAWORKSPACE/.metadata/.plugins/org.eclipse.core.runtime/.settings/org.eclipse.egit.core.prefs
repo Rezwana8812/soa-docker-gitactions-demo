@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=C\:\\Users\\Asus\\Desktop\\SOA\\SOAWORKSPACE\\SpringBootDemoProject\\.git;
-GitRepositoriesView.GitDirectories.relative=SpringBootDemoProject\\.git;
+GitRepositoriesView.GitDirectories=C\:\\Users\\Asus\\Desktop\\SOA\\SOAWORKSPACE\\.git;C\:\\Users\\Asus\\Desktop\\SOA\\SOAWORKSPACE\\SpringBootDemoProject\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;SpringBootDemoProject\\.git;
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1

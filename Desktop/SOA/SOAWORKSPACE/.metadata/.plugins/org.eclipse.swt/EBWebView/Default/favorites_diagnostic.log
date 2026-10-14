@@ -219,3 +219,612 @@
 2026-08-14 02:36:25.207: [INFO] BookmarksLoadDropped droppedNodes=0
 2026-08-14 02:36:25.207: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
 2026-08-14 03:57:16.058: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 01:57:28.775: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-18 01:57:28.775: [INFO] Profiles total count: 1
+2026-08-18 01:57:28.775: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-18 01:57:28.775: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-18 01:57:28.775: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-18 01:57:28.775: [INFO] OnDoneLoading sync enabled: 0
+2026-08-18 01:57:28.775: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-18 01:57:28.775: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-18 01:57:28.775: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 02:54:46.559: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-19 10:49:32.757: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-19 10:49:32.757: [INFO] Profiles total count: 1
+2026-08-19 10:49:32.757: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-19 10:49:32.757: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-19 10:49:32.757: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-19 10:49:32.757: [INFO] OnDoneLoading sync enabled: 0
+2026-08-19 10:49:32.757: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-19 10:49:32.757: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-19 10:49:32.757: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-19 10:49:32.937: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-19 10:49:33.545: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-19 10:49:33.545: [INFO] Profiles total count: 1
+2026-08-19 10:49:33.545: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-19 10:49:33.545: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-19 10:49:33.545: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-19 10:49:33.545: [INFO] OnDoneLoading sync enabled: 0
+2026-08-19 10:49:33.545: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-19 10:49:33.545: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-19 10:49:33.545: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-19 10:49:33.734: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-19 10:50:59.423: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-19 10:50:59.423: [INFO] Profiles total count: 1
+2026-08-19 10:50:59.423: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-19 10:50:59.423: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-19 10:50:59.423: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-19 10:50:59.423: [INFO] OnDoneLoading sync enabled: 0
+2026-08-19 10:50:59.423: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-19 10:50:59.423: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-19 10:50:59.423: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-19 11:48:54.663: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-19 11:52:26.895: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-19 11:52:26.895: [INFO] Profiles total count: 1
+2026-08-19 11:52:26.895: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-19 11:52:26.895: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-19 11:52:26.895: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-19 11:52:26.895: [INFO] OnDoneLoading sync enabled: 0
+2026-08-19 11:52:26.895: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-19 11:52:26.895: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-19 11:52:26.895: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-19 15:17:44.363: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-19 15:36:54.997: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-19 15:36:54.997: [INFO] Profiles total count: 1
+2026-08-19 15:36:54.998: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-19 15:36:54.998: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-19 15:36:54.998: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-19 15:36:54.998: [INFO] OnDoneLoading sync enabled: 0
+2026-08-19 15:36:54.998: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-19 15:36:54.998: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-19 15:36:54.998: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-19 15:45:17.194: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 06:24:39.528: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-20 06:24:39.528: [INFO] Profiles total count: 1
+2026-08-20 06:24:39.529: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-20 06:24:39.529: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-20 06:24:39.529: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-20 06:24:39.529: [INFO] OnDoneLoading sync enabled: 0
+2026-08-20 06:24:39.529: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-20 06:24:39.529: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-20 06:24:39.529: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 06:33:44.903: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 10:26:37.961: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-20 10:26:37.961: [INFO] Profiles total count: 1
+2026-08-20 10:26:37.962: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-20 10:26:37.962: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-20 10:26:37.962: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-20 10:26:37.962: [INFO] OnDoneLoading sync enabled: 0
+2026-08-20 10:26:37.962: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-20 10:26:37.962: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-20 10:26:37.962: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 10:26:39.475: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 10:27:17.309: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-20 10:27:17.309: [INFO] Profiles total count: 1
+2026-08-20 10:27:17.309: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-20 10:27:17.309: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-20 10:27:17.310: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-20 10:27:17.310: [INFO] OnDoneLoading sync enabled: 0
+2026-08-20 10:27:17.310: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-20 10:27:17.310: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-20 10:27:17.310: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 11:23:35.577: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 11:24:12.599: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-20 11:24:12.599: [INFO] Profiles total count: 1
+2026-08-20 11:24:12.600: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-20 11:24:12.600: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-20 11:24:12.600: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-20 11:24:12.600: [INFO] OnDoneLoading sync enabled: 0
+2026-08-20 11:24:12.600: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-20 11:24:12.600: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-20 11:24:12.600: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 12:00:27.874: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 14:44:27.979: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-20 14:44:27.979: [INFO] Profiles total count: 1
+2026-08-20 14:44:27.980: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-20 14:44:27.980: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-20 14:44:27.980: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-20 14:44:27.980: [INFO] OnDoneLoading sync enabled: 0
+2026-08-20 14:44:27.980: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-20 14:44:27.980: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-20 14:44:27.980: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 15:25:04.330: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-26 16:23:30.013: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-26 16:23:30.013: [INFO] Profiles total count: 1
+2026-08-26 16:23:30.014: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-26 16:23:30.014: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-26 16:23:30.014: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-26 16:23:30.014: [INFO] OnDoneLoading sync enabled: 0
+2026-08-26 16:23:30.014: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-26 16:23:30.014: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-26 16:23:30.014: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-26 16:23:30.200: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-26 16:27:27.310: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-26 16:27:27.310: [INFO] Profiles total count: 1
+2026-08-26 16:27:27.311: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-26 16:27:27.311: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-26 16:27:27.311: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-26 16:27:27.311: [INFO] OnDoneLoading sync enabled: 0
+2026-08-26 16:27:27.311: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-26 16:27:27.311: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-26 16:27:27.311: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-26 16:50:36.199: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-26 16:50:40.274: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-26 16:50:40.274: [INFO] Profiles total count: 1
+2026-08-26 16:50:40.274: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-26 16:50:40.274: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-26 16:50:40.274: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-26 16:50:40.274: [INFO] OnDoneLoading sync enabled: 0
+2026-08-26 16:50:40.274: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-26 16:50:40.274: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-26 16:50:40.275: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-26 18:49:03.931: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 05:45:48.608: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-27 05:45:48.608: [INFO] Profiles total count: 1
+2026-08-27 05:45:48.609: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-27 05:45:48.609: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-27 05:45:48.609: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-27 05:45:48.609: [INFO] OnDoneLoading sync enabled: 0
+2026-08-27 05:45:48.609: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-27 05:45:48.609: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-27 05:45:48.609: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 05:47:53.582: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 05:48:06.837: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-27 05:48:06.837: [INFO] Profiles total count: 1
+2026-08-27 05:48:06.837: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-27 05:48:06.837: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-27 05:48:06.838: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-27 05:48:06.838: [INFO] OnDoneLoading sync enabled: 0
+2026-08-27 05:48:06.838: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-27 05:48:06.838: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-27 05:48:06.838: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 05:53:10.137: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 05:53:30.434: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-27 05:53:30.434: [INFO] Profiles total count: 1
+2026-08-27 05:53:30.435: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-27 05:53:30.435: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-27 05:53:30.435: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-27 05:53:30.435: [INFO] OnDoneLoading sync enabled: 0
+2026-08-27 05:53:30.435: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-27 05:53:30.435: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-27 05:53:30.435: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 05:56:47.839: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 05:56:55.363: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-27 05:56:55.363: [INFO] Profiles total count: 1
+2026-08-27 05:56:55.364: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-27 05:56:55.364: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-27 05:56:55.364: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-27 05:56:55.364: [INFO] OnDoneLoading sync enabled: 0
+2026-08-27 05:56:55.364: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-27 05:56:55.364: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-27 05:56:55.364: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 05:56:55.559: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 06:19:19.939: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-27 06:19:19.939: [INFO] Profiles total count: 1
+2026-08-27 06:19:19.940: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-27 06:19:19.940: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-27 06:19:19.940: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-27 06:19:19.940: [INFO] OnDoneLoading sync enabled: 0
+2026-08-27 06:19:19.940: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-27 06:19:19.940: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-27 06:19:19.940: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 06:33:39.946: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 08:38:59.323: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-27 08:38:59.323: [INFO] Profiles total count: 1
+2026-08-27 08:38:59.323: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-27 08:38:59.324: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-27 08:38:59.324: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-27 08:38:59.324: [INFO] OnDoneLoading sync enabled: 0
+2026-08-27 08:38:59.324: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-27 08:38:59.324: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-27 08:38:59.324: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 09:27:00.305: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 09:27:44.126: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-27 09:27:44.126: [INFO] Profiles total count: 1
+2026-08-27 09:27:44.126: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-27 09:27:44.126: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-27 09:27:44.127: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-27 09:27:44.127: [INFO] OnDoneLoading sync enabled: 0
+2026-08-27 09:27:44.127: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-27 09:27:44.127: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-27 09:27:44.127: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 09:28:11.147: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 09:28:41.002: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-27 09:28:41.002: [INFO] Profiles total count: 1
+2026-08-27 09:28:41.003: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-27 09:28:41.003: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-27 09:28:41.003: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-27 09:28:41.003: [INFO] OnDoneLoading sync enabled: 0
+2026-08-27 09:28:41.003: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-27 09:28:41.003: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-27 09:28:41.003: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 10:16:21.571: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 10:16:38.892: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-27 10:16:38.892: [INFO] Profiles total count: 1
+2026-08-27 10:16:38.892: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-27 10:16:38.892: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-27 10:16:38.892: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-27 10:16:38.892: [INFO] OnDoneLoading sync enabled: 0
+2026-08-27 10:16:38.892: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-27 10:16:38.892: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-27 10:16:38.892: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 11:42:10.599: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 11:42:46.676: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-27 11:42:46.676: [INFO] Profiles total count: 1
+2026-08-27 11:42:46.676: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-27 11:42:46.676: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-27 11:42:46.676: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-27 11:42:46.676: [INFO] OnDoneLoading sync enabled: 0
+2026-08-27 11:42:46.676: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-27 11:42:46.676: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-27 11:42:46.676: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 11:43:10.952: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 11:45:38.952: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-27 11:45:38.952: [INFO] Profiles total count: 1
+2026-08-27 11:45:38.952: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-27 11:45:38.952: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-27 11:45:38.953: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-27 11:45:38.953: [INFO] OnDoneLoading sync enabled: 0
+2026-08-27 11:45:38.953: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-27 11:45:38.953: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-27 11:45:38.953: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 11:45:55.518: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 11:46:06.931: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-27 11:46:06.931: [INFO] Profiles total count: 1
+2026-08-27 11:46:06.932: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-27 11:46:06.932: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-27 11:46:06.932: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-27 11:46:06.932: [INFO] OnDoneLoading sync enabled: 0
+2026-08-27 11:46:06.932: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-27 11:46:06.932: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-27 11:46:06.932: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 11:47:52.058: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 11:48:19.229: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-27 11:48:19.229: [INFO] Profiles total count: 1
+2026-08-27 11:48:19.230: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-27 11:48:19.230: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-27 11:48:19.230: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-27 11:48:19.230: [INFO] OnDoneLoading sync enabled: 0
+2026-08-27 11:48:19.230: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-27 11:48:19.230: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-27 11:48:19.230: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 11:48:44.271: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 11:48:57.405: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-27 11:48:57.405: [INFO] Profiles total count: 1
+2026-08-27 11:48:57.405: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-27 11:48:57.405: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-27 11:48:57.405: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-27 11:48:57.405: [INFO] OnDoneLoading sync enabled: 0
+2026-08-27 11:48:57.405: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-27 11:48:57.405: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-27 11:48:57.405: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 11:49:02.370: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 11:49:06.890: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-27 11:49:06.890: [INFO] Profiles total count: 1
+2026-08-27 11:49:06.890: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-27 11:49:06.890: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-27 11:49:06.890: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-27 11:49:06.890: [INFO] OnDoneLoading sync enabled: 0
+2026-08-27 11:49:06.890: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-27 11:49:06.890: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-27 11:49:06.890: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 11:49:49.559: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-28 01:58:57.385: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-28 01:58:57.385: [INFO] Profiles total count: 1
+2026-08-28 01:58:57.385: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-28 01:58:57.385: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-28 01:58:57.386: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-28 01:58:57.386: [INFO] OnDoneLoading sync enabled: 0
+2026-08-28 01:58:57.386: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-28 01:58:57.386: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-28 01:58:57.386: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-28 01:59:59.913: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-28 02:00:32.002: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-28 02:00:32.002: [INFO] Profiles total count: 1
+2026-08-28 02:00:32.003: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-28 02:00:32.003: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-28 02:00:32.003: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-28 02:00:32.003: [INFO] OnDoneLoading sync enabled: 0
+2026-08-28 02:00:32.003: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-28 02:00:32.003: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-28 02:00:32.003: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-28 02:17:48.057: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-28 02:17:48.209: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-28 02:17:48.209: [INFO] Profiles total count: 1
+2026-08-28 02:17:48.210: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-28 02:17:48.210: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-28 02:17:48.210: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-28 02:17:48.210: [INFO] OnDoneLoading sync enabled: 0
+2026-08-28 02:17:48.210: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-28 02:17:48.210: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-28 02:17:48.210: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-28 02:20:59.837: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-28 02:22:30.963: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-28 02:22:30.963: [INFO] Profiles total count: 1
+2026-08-28 02:22:30.964: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-28 02:22:30.964: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-28 02:22:30.964: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-08-28 02:22:30.964: [INFO] OnDoneLoading sync enabled: 0
+2026-08-28 02:22:30.964: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-28 02:22:30.964: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-28 02:22:30.964: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-28 07:35:02.409: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-02 10:50:03.071: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-02 10:50:03.071: [INFO] Profiles total count: 1
+2026-09-02 10:50:03.072: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-09-02 10:50:03.072: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-02 10:50:03.072: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-09-02 10:50:03.072: [INFO] OnDoneLoading sync enabled: 0
+2026-09-02 10:50:03.072: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-02 10:50:03.072: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-02 10:50:03.072: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-02 15:11:29.059: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-03 10:21:57.639: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-03 10:21:57.639: [INFO] Profiles total count: 1
+2026-09-03 10:21:57.639: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-09-03 10:21:57.639: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-03 10:21:57.639: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-09-03 10:21:57.639: [INFO] OnDoneLoading sync enabled: 0
+2026-09-03 10:21:57.639: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-03 10:21:57.639: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-03 10:21:57.639: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-03 11:56:52.984: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-11 10:22:02.000: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-11 10:22:02.000: [INFO] Profiles total count: 1
+2026-09-11 10:22:02.000: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-09-11 10:22:02.000: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-11 10:22:02.000: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-09-11 10:22:02.000: [INFO] OnDoneLoading sync enabled: 0
+2026-09-11 10:22:02.000: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-11 10:22:02.000: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-11 10:22:02.000: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-11 10:35:59.118: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-11 10:36:17.184: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-11 10:36:17.185: [INFO] Profiles total count: 1
+2026-09-11 10:36:17.185: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-09-11 10:36:17.185: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-11 10:36:17.185: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-09-11 10:36:17.185: [INFO] OnDoneLoading sync enabled: 0
+2026-09-11 10:36:17.185: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-11 10:36:17.185: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-11 10:36:17.185: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-11 11:28:29.588: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-16 10:40:33.118: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-16 10:40:33.118: [INFO] Profiles total count: 1
+2026-09-16 10:40:33.118: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-09-16 10:40:33.118: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-16 10:40:33.118: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-09-16 10:40:33.119: [INFO] OnDoneLoading sync enabled: 0
+2026-09-16 10:40:33.119: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-16 10:40:33.119: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-16 10:40:33.119: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-16 12:02:03.223: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 05:13:35.475: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 05:13:35.475: [INFO] Profiles total count: 1
+2026-09-17 05:13:35.475: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-09-17 05:13:35.475: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 05:13:35.475: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-09-17 05:13:35.476: [INFO] OnDoneLoading sync enabled: 0
+2026-09-17 05:13:35.476: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-17 05:13:35.476: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-17 05:13:35.476: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 05:14:30.549: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 05:25:23.627: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 05:25:23.627: [INFO] Profiles total count: 1
+2026-09-17 05:25:23.627: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-09-17 05:25:23.627: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 05:25:23.627: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-09-17 05:25:23.627: [INFO] OnDoneLoading sync enabled: 0
+2026-09-17 05:25:23.627: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-17 05:25:23.627: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-17 05:25:23.627: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 10:40:37.840: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 10:40:37.840: [INFO] Profiles total count: 1
+2026-09-17 10:40:37.840: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-09-17 10:40:37.840: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 10:40:37.840: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-09-17 10:40:37.840: [INFO] OnDoneLoading sync enabled: 0
+2026-09-17 10:40:37.840: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-17 10:40:37.840: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-17 10:40:37.840: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 10:40:45.637: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 10:55:29.621: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 10:55:29.621: [INFO] Profiles total count: 1
+2026-09-17 10:55:29.621: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-09-17 10:55:29.621: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 10:55:29.621: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-09-17 10:55:29.621: [INFO] OnDoneLoading sync enabled: 0
+2026-09-17 10:55:29.621: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-17 10:55:29.621: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-17 10:55:29.621: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 11:06:31.010: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 11:09:14.804: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 11:09:14.804: [INFO] Profiles total count: 1
+2026-09-17 11:09:14.804: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-09-17 11:09:14.804: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 11:09:14.805: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-09-17 11:09:14.805: [INFO] OnDoneLoading sync enabled: 0
+2026-09-17 11:09:14.805: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-17 11:09:14.805: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-17 11:09:14.805: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 11:57:08.843: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-18 01:53:16.587: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-18 01:53:16.587: [INFO] Profiles total count: 1
+2026-09-18 01:53:16.588: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-09-18 01:53:16.588: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-18 01:53:16.588: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-09-18 01:53:16.588: [INFO] OnDoneLoading sync enabled: 0
+2026-09-18 01:53:16.588: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-18 01:53:16.588: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-18 01:53:16.588: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-18 03:16:20.948: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 16:16:13.522: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 16:16:13.522: [INFO] Profiles total count: 1
+2026-09-22 16:16:13.522: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-09-22 16:16:13.522: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 16:16:13.522: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-09-22 16:16:13.522: [INFO] OnDoneLoading sync enabled: 0
+2026-09-22 16:16:13.522: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-22 16:16:13.522: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-22 16:16:13.522: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 16:25:05.276: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-23 10:43:37.119: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-23 10:43:37.119: [INFO] Profiles total count: 1
+2026-09-23 10:43:37.120: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-09-23 10:43:37.120: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-23 10:43:37.120: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-09-23 10:43:37.120: [INFO] OnDoneLoading sync enabled: 0
+2026-09-23 10:43:37.120: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-23 10:43:37.120: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-23 10:43:37.120: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-23 10:48:56.882: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 10:21:22.625: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 10:21:22.626: [INFO] Profiles total count: 1
+2026-09-30 10:21:22.626: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-09-30 10:21:22.626: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 10:21:22.626: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-09-30 10:21:22.626: [INFO] OnDoneLoading sync enabled: 0
+2026-09-30 10:21:22.626: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-30 10:21:22.626: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-30 10:21:22.626: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 10:34:29.244: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 10:38:57.557: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 10:38:57.557: [INFO] Profiles total count: 1
+2026-09-30 10:38:57.557: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-09-30 10:38:57.557: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 10:38:57.557: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-09-30 10:38:57.557: [INFO] OnDoneLoading sync enabled: 0
+2026-09-30 10:38:57.557: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-30 10:38:57.557: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-30 10:38:57.557: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 10:47:53.753: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 10:49:02.800: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 10:49:02.800: [INFO] Profiles total count: 1
+2026-09-30 10:49:02.800: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-09-30 10:49:02.800: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 10:49:02.800: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-09-30 10:49:02.800: [INFO] OnDoneLoading sync enabled: 0
+2026-09-30 10:49:02.800: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-30 10:49:02.800: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-30 10:49:02.800: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 10:49:02.993: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 10:49:11.135: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 10:49:11.136: [INFO] Profiles total count: 1
+2026-09-30 10:49:11.136: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-09-30 10:49:11.136: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 10:49:11.136: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-09-30 10:49:11.136: [INFO] OnDoneLoading sync enabled: 0
+2026-09-30 10:49:11.136: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-30 10:49:11.136: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-30 10:49:11.136: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 10:49:22.191: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 10:51:51.242: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 10:51:51.242: [INFO] Profiles total count: 1
+2026-09-30 10:51:51.243: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-09-30 10:51:51.243: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 10:51:51.243: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-09-30 10:51:51.243: [INFO] OnDoneLoading sync enabled: 0
+2026-09-30 10:51:51.243: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-30 10:51:51.243: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-30 10:51:51.243: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 11:49:05.536: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-01 06:07:24.083: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-01 06:07:24.083: [INFO] Profiles total count: 1
+2026-10-01 06:07:24.083: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-10-01 06:07:24.083: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-01 06:07:24.083: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-10-01 06:07:24.083: [INFO] OnDoneLoading sync enabled: 0
+2026-10-01 06:07:24.083: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-01 06:07:24.083: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-01 06:07:24.083: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-01 06:13:13.140: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-01 06:13:54.290: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-01 06:13:54.290: [INFO] Profiles total count: 1
+2026-10-01 06:13:54.290: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-10-01 06:13:54.290: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-01 06:13:54.290: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-10-01 06:13:54.290: [INFO] OnDoneLoading sync enabled: 0
+2026-10-01 06:13:54.290: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-01 06:13:54.290: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-01 06:13:54.290: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-01 06:29:43.136: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-01 10:35:42.842: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-01 10:35:42.842: [INFO] Profiles total count: 1
+2026-10-01 10:35:42.842: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-10-01 10:35:42.842: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-01 10:35:42.842: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-10-01 10:35:42.842: [INFO] OnDoneLoading sync enabled: 0
+2026-10-01 10:35:42.842: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-01 10:35:42.842: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-01 10:35:42.842: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-01 10:35:48.185: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-01 10:40:27.572: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-01 10:40:27.572: [INFO] Profiles total count: 1
+2026-10-01 10:40:27.572: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-10-01 10:40:27.572: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-01 10:40:27.572: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-10-01 10:40:27.572: [INFO] OnDoneLoading sync enabled: 0
+2026-10-01 10:40:27.572: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-01 10:40:27.572: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-01 10:40:27.572: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-01 12:00:28.582: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-07 13:15:18.470: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-07 13:15:18.470: [INFO] Profiles total count: 1
+2026-10-07 13:15:18.470: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-10-07 13:15:18.470: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-07 13:15:18.470: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-10-07 13:15:18.470: [INFO] OnDoneLoading sync enabled: 0
+2026-10-07 13:15:18.470: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-07 13:15:18.470: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-07 13:15:18.470: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-07 13:26:32.325: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-07 14:03:32.989: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-07 14:03:32.989: [INFO] Profiles total count: 1
+2026-10-07 14:03:32.989: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-10-07 14:03:32.989: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-07 14:03:32.989: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-10-07 14:03:32.989: [INFO] OnDoneLoading sync enabled: 0
+2026-10-07 14:03:32.989: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-07 14:03:32.989: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-07 14:03:32.989: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-07 14:13:35.771: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-07 14:22:36.241: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-07 14:22:36.241: [INFO] Profiles total count: 1
+2026-10-07 14:22:36.241: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-10-07 14:22:36.241: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-07 14:22:36.241: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-10-07 14:22:36.241: [INFO] OnDoneLoading sync enabled: 0
+2026-10-07 14:22:36.241: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-07 14:22:36.241: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-07 14:22:36.241: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-07 14:27:00.976: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-07 14:27:26.313: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-07 14:27:26.313: [INFO] Profiles total count: 1
+2026-10-07 14:27:26.313: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-10-07 14:27:26.313: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-07 14:27:26.313: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-10-07 14:27:26.313: [INFO] OnDoneLoading sync enabled: 0
+2026-10-07 14:27:26.313: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-07 14:27:26.313: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-07 14:27:26.313: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-07 17:44:10.506: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-08 03:45:22.493: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-08 03:45:22.493: [INFO] Profiles total count: 1
+2026-10-08 03:45:22.493: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-10-08 03:45:22.493: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-08 03:45:22.493: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-10-08 03:45:22.493: [INFO] OnDoneLoading sync enabled: 0
+2026-10-08 03:45:22.493: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-08 03:45:22.493: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-08 03:45:22.493: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-08 04:10:29.287: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-13 10:25:34.743: [INFO] CurrentProfilePath: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-13 10:25:34.743: [INFO] Profiles total count: 1
+2026-10-13 10:25:34.743: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-10-13 10:25:34.743: [INFO] LastUsedProfileDir: C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-13 10:25:34.743: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Desktop\SOA\SOAWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-29T11:45:21.025Z
+2026-10-13 10:25:34.743: [INFO] OnDoneLoading sync enabled: 0
+2026-10-13 10:25:34.743: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-13 10:25:34.743: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-13 10:25:34.743: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-13 11:20:05.979: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1

@@ -13,6 +13,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.klef.ms.dto.OrderRequest;
@@ -45,6 +46,12 @@ public class OrderController
     public ResponseEntity<List<OrderResponse>> getAllOrders() 
     {
         return ResponseEntity.ok(service.getAllOrders());
+    }
+    
+    @GetMapping("displaybyuserid")
+    public ResponseEntity<List<OrderResponse>> getOrdersByUserId(@RequestParam Long userid) 
+    {
+        return ResponseEntity.ok(service.displayOrderByUserId(userid));
     }
 
     @GetMapping("display/{id}")

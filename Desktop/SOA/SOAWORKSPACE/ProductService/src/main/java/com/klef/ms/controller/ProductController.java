@@ -3,6 +3,7 @@ package com.klef.ms.controller;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.validation.annotation.Validated;
@@ -19,6 +20,7 @@ import com.klef.ms.dto.ProductRequest;
 import com.klef.ms.dto.ProductResponse;
 import com.klef.ms.service.ProductService;
 
+import io.swagger.v3.oas.annotations.Operation;
 import jakarta.validation.Valid;
 
 @RestController
@@ -34,7 +36,21 @@ public class ProductController
     {
         return "Product Service Project";
     }
+    
+    @Value("${server.port}")
+    private String port;
 
+    
+    @GetMapping("/instance")
+    public String instance()
+    {
+    	return "Product Service running on port: " +port;
+    }
+    
+    @Operation(
+    		summary = "",
+    		description = "Adding  a Product with Category and Quantity"
+    		)
     @PostMapping("/add")
     public ResponseEntity<ProductResponse> saveProduct(@Valid @RequestBody ProductRequest request) 
     {
@@ -44,6 +60,7 @@ public class ProductController
     @GetMapping("displayall")
     public ResponseEntity<List<ProductResponse>> getAllProducts() 
     {
+    	System.out.println("Product Service instance running on port: " +port);
         return ResponseEntity.ok(service.getAllProducts());
     }
 
